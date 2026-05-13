@@ -1,5 +1,22 @@
 # 💫 About Me:
 🚀 Frontend Learner | Aspiring AI Engineer
+currently_learning:
+  - Frontend Development
+  - Full Stack Basics
+  - AI Engineering Fundamentals
+  - Building Projects from Scratch
+
+interests:
+  - Hackathons
+  - Open Source
+  - AI-powered Product
+
+  🏆 Highlights
+
+✨ Participated in my first hackathons in 2026
+✨ Exploring AWS AI concepts through hands-on learning with PartyRock
+✨ Learning development publicly and documenting the journey
+✨ Building consistency one project at a time
 
 
 ## 🌐 Socials:
