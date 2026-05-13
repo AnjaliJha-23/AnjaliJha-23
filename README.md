@@ -15,13 +15,15 @@ Interests:
   🏆 Highlights
 
 ✨ Participated in my first hackathons in 2026
-✨ Exploring AWS AI concepts through hands-on learning with PartyRock
-✨ Learning development publicly and documenting the journey
-✨ Building consistency one project at a time
+ ✨ Exploring AWS AI concepts through hands-on learning with PartyRock
+ ✨ Learning development publicly and documenting the journey
+ ✨ Building consistency one project at a time
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ anjalijha23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnjaliJha23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23anjalijha@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)]
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=pink)](https://x.com/https://x.com/AnjaliJha23) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23anjalijha@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
