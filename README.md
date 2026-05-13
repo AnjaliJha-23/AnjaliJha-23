@@ -1,12 +1,13 @@
 # 💫 About Me:
 🚀 Frontend Learner | Aspiring AI Engineer
-currently_learning:
+
+Currently_learning:
   - Frontend Development
   - Full Stack Basics
   - AI Engineering Fundamentals
   - Building Projects from Scratch
 
-interests:
+Interests:
   - Hackathons
   - Open Source
   - AI-powered Product
