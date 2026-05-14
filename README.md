@@ -15,9 +15,9 @@ Interests:
   🏆 Highlights
 
 ✨ Participated in my first hackathons in 2026
- ✨ Exploring AWS AI concepts through hands-on learning with PartyRock
- ✨ Learning development publicly and documenting the journey
- ✨ Building consistency one project at a time
+  ✨ Exploring AWS AI concepts through hands-on learning with PartyRock
+  ✨ Learning development publicly and documenting the journey
+  ✨ Building consistency one project at a time
 
 
 ## 🌐 Socials:
