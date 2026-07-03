@@ -1,10 +1,10 @@
-### 💫 About Me
+## 💫 About Me:
 
-💻 **Front-end Developer** transitioning into Full-stack Development<br>
-🚀 **Building projects from scratch** to master both client and server-side engineering<br>
-🌱 **Currently focused on AI Engineering Fundamentals** to build smarter applications<br>
-⚡ **Driven by bringing ideas to life** through practical, end-to-end development<br>
-📚 **Evolving my skillset constantly** by diving into fast-paced hackathons<br>
+💻 Front-end Developer transitioning into Full-stack Development
+🚀 Building projects from scratch to master both client and server-side engineering
+🌱 Currently focused on AI Engineering Fundamentals to build smarter applications
+⚡ Driven by bringing ideas to life through practical, end-to-end development
+📚 Evolving my skillset constantly by diving into fast-paced hackathons
 
 🏆 Highlights<br><br>✨ Participated in my first hackathons in 2026<br>✨ Exploring AWS AI concepts through hands-on learning with PartyRock<br>✨ Learning development publicly and documenting the journey<br>✨ Building consistency one project at a time
 
